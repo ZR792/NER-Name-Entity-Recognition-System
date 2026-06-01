@@ -1,0 +1,25 @@
+# Generated files
+models/
+data/cleaned_data.csv
+data/iob_data.json
+data/spacy_training_data.json
+data/*.png
+data/tagged_data.json
+
+# Python
+__pycache__/
+*.pyc
+*.pkl
+*.egg-info/
+
+# Virtual environments
+venv/
+venv311/
+.venv/
+env/
+
+# VS Code
+.vscode/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
